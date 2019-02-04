@@ -1,0 +1,19 @@
+Lista de dependencias instaladas
+- 4 Febrero 2019
+
+sudo npm init
+sudo npm install gulp --save-dev
+sudo npm install node-sass gulp-sass --save-dev
+
+npm install browser-sync --save-dev
+
+npm install gulp-uglify --save-dev
+npm install pump --save-dev
+
+npm install gulp-cssnano --save-dev
+
+npm install gulp-imagemin@3.0.3 --save-dev  //Minify PNG, JPEG, GIF and SVG images
+
+npm install gulp-autoprefixer --save-dev
+
+npm install gulp-htmlmin --save-dev
