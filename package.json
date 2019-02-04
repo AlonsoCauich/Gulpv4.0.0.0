@@ -1,0 +1,17 @@
+{
+  "name": "template_gulp",
+  "version": "1.0.0",
+  "description": "Designing the project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alonso de Jesus Cauich Viana",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  }
+}
